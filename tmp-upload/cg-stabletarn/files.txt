@@ -1,0 +1,13 @@
+fredoka-latin-500-normal-B0JifZgm.woff2
+fredoka-latin-500-normal-BL692wg7.woff
+fredoka-latin-600-normal-C4zohCW5.woff2
+fredoka-latin-600-normal-CcrEjrB4.woff
+fredoka-latin-700-normal-BOIZVyIN.woff2
+fredoka-latin-700-normal-C8FeHd3X.woff
+index-DmFKXGtb.css
+index-HuwmdZFl.js
+index.html
+web-1l1Eiz8s.js
+web-BTG9sITM.js
+web-Bj3YJ-Wr.js
+web-CQWXTaEM.js
