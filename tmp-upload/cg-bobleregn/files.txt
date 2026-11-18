@@ -4,10 +4,11 @@ fredoka-latin-600-normal-C4zohCW5.woff2
 fredoka-latin-600-normal-CcrEjrB4.woff
 fredoka-latin-700-normal-BOIZVyIN.woff2
 fredoka-latin-700-normal-C8FeHd3X.woff
-index-B-IFZOah.js
+icon-256-BsPd28JS.png
+index-CpWSfP6T.js
 index-DmFKXGtb.css
 index.html
-web-CGo4t8MQ.js
-web-CIVdWu9x.js
-web-LSbcNF6l.js
-web-e2oB8di9.js
+web-3DO5xfz1.js
+web-4_mCVr3L.js
+web-Cwtujkxd.js
+web-J9zNfQPB.js
