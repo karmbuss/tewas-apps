@@ -15,10 +15,10 @@ fredoka-latin-600-normal-CcrEjrB4.woff
 fredoka-latin-700-normal-BOIZVyIN.woff2
 fredoka-latin-700-normal-C8FeHd3X.woff
 icon-256-AjSBv16f.png
+index-BpD5qIPn.js
 index-DmFKXGtb.css
-index-Qky1Fsh9.js
 index.html
-web-BLoXNxAT.js
-web-CAj-lDNr.js
-web-DuORkm-R.js
-web-casQtNym.js
+web-Ct51DnQI.js
+web-CzDerr4a.js
+web-D3UVUaiq.js
+web-Dl8G0L79.js
